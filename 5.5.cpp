@@ -51,7 +51,7 @@ int main()
     rectangle r1;
     r1.insert_data();
     r1.cal_area();
-    r1.
+    r1.display_data();
 
 
 }

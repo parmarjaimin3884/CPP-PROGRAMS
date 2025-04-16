@@ -19,12 +19,10 @@ class bank_mangement_system
     {
 
         current_bal = current_bal + x;
-        cout<<current_bal;
     }
     void withdraw_money(float y)
     {
         current_bal = current_bal - y;
-        cout<<current_bal;
     }
     void display_acc_details()
     {

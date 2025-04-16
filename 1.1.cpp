@@ -24,7 +24,7 @@ public:
         cin >> name;
         cout<<"Enter account number :";
         cin>>acc_num;
-        cout<<"Enter ccount balance :";
+        cout<<"Enter account balance :";
         cin >> acc_balance;
 
     }
@@ -53,7 +53,7 @@ public:
     }
     void display_amount()
     {
-        cout<<"the total ammount is:"<<endl<<acc_balance;
+        cout<<"the total ammount is:"<<acc_balance<<endl;
     }
 
 
