@@ -1,0 +1,4 @@
+jaimin,80 A 150000
+akshar,85 A 120000
+diksh,70 B 50000
+dhruv,80 A 150000
